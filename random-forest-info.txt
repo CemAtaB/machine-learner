@@ -1,0 +1,1 @@
+A random forest is a meta estimator that fits a number of decision tree classifiers or regressor on various sub-samples of the data-set and uses averaging to improve the predictive accuracy and control over-fitting.
