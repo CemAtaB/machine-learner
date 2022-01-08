@@ -50,7 +50,7 @@ def remove_features():
 chosen_model = None
 df = None
 original_df = None
-st.image('Machine Learner.png')
+st.image('logo.png')
 
 data = st.sidebar.file_uploader("Upload your data here")
 
